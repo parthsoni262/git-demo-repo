@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Some content
+=======
+Some more content
+last item
+>>>>>>> my-greate-featuure
